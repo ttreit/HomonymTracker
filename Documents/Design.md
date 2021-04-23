@@ -7,5 +7,3 @@ Features
 Sets are returned in alphabetical order
 Words must be dictionary words
 Leaderboard
-
-Test change
